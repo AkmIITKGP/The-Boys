@@ -187,12 +187,12 @@
 			}
 	.mob-menu-header-holder {
 		width:  100% ;
-		background-color: transparent ;
+		background-color: #581aaf ;
 		height: 58px ;
 		position:fixed;
 	}
 	body.mob-menu-overlay, body.mob-menu-slideout, body.mob-menu-slideout-over, body.mob-menu-slideout-top {
-		padding-top: 0px;
+		padding-top: 58px;
 	}
 		.mobmenul-container, .mobmenur-container{
 		position: absolute; 
@@ -343,8 +343,8 @@
 
 
 .mob-menu-logo-holder > .headertext span,.mobmenu input.mob-menu-search-field {
-	font-family:Alegreya;
-	font-size:20px;
+	font-family:Caudex;
+	font-size:23px;
 	font-weight:inherit;
 	font-style:normal;
 	letter-spacing:normal;
